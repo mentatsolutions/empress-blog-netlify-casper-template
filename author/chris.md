@@ -1,4 +1,3 @@
-
 ---
 name: Wendell White
 id: chris
