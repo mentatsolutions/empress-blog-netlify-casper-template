@@ -7,7 +7,7 @@ tags:
   - getting-started
 ---
 
-# The Beginnigs of Code:
+# The Beginnings of Code:
 
 I have recently finished reading **Coders: The Making of a New Tribe and the Remaking of the World**, a book written by **Clive Thompson** *(Penguin Press 2019)*.  The book is an excellent history of the rise of programmers and the influence they have in today’s society.   
 
@@ -21,9 +21,9 @@ The author paints a detailed picture of how some of the top programmers view the
 ## Privacy, please...
 Clive Thompson also goes into detail about the newest topics in tech including artificial intelligence, Blockchain and crypto-currencies.  I found it very interesting that a lot of the privacy and encryption technology that we use in our everyday lives outpaced that of government agencies tasked with gathering and tracking information on various people and entities.  On the other hand, the general public has become increasingly concerned about information security and privacy. The encryption technology placed on items such as smartphones and some web browsers is unbreakable and not even the government can monitor conversations and information exchanges that use these features. This has caused conflict with the government because there is no ‘back door’ for them to use for monitoring.  Artificial intelligence and crypto-currencies are also often outside of government regulations because there are no precedents on use cases.  
 
----
-{{< youtube 89vzfTFu1Vw >}} Clive Thompson
----
+# ---
+# {{< youtube 89vzfTFu1Vw >}} Clive Thompson
+# ---
 
 One of the recurring threads throughout Thompson’s book is that many of the top programmers are self taught.  Software is one of the few industries where all of the available tools are free and readily accessible.  This has allowed many people learn and build their own creations.  A single person with vision is indeed able to change the world. The final chapter of the book is a story about how a group of coal miners in Kentucky were re-trained as programmers after jobs became scarce in the mining industry.  The author seems to give this as an example of what the future may look like for other industries that experience massive job losses due to technological advancements.  The auto industry, oil and gas, and manufacturing might be next to require employees to acquire software and technology skills in order to stay relevant in today’s work force.
 
