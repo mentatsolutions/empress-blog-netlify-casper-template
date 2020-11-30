@@ -2,7 +2,7 @@
 ---
 name: Wendell White
 id: chris
-image: /images/chris.jpg
+image: /images/codescreen.jpg
 cover:
 website:
 twitter: 7th_mentat
