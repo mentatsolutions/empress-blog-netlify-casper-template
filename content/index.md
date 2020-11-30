@@ -3,8 +3,8 @@ title: "Coders - The Making of a New Tribe and the Remaking of the World (Book R
 diagram: no
 date: '2020-11-18'
 math: no
-image:
-  caption: 
+tags:
+  - getting-started
 ---
 
 # The Beginnigs of Code:
