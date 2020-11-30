@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'wendell white analytics',
+      description: 'Bitcoin...Blockchain...Trading',
+      coverImage: '/images/opendime.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Blog by Wendell White',
         route: 'page',
         id: 'chris-manson'
       }]
