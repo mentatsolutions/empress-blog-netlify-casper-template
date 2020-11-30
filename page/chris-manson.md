@@ -1,6 +1,6 @@
 ---
 title: Developed with ❤️ by Wendell White
-image: /images/built-by.jpg
+image: /images/codescreen.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -16,6 +16,6 @@ My name is Wendell White and I am a Bitcoin Analyst and Trading Researcher using
 
 I hav BSc and ME degrees in Petroleum Engineering from the Colorado School of Mines and have worked all over the world on a variety of complex drilling projects. During the oil and gas downturn I discovered the world of Bitcoin and have been fascinated by it ever since. You can find me on Twitter and GitHub.
 
-I live in Denver, CO.
+I live in the Mile High City of Denver, CO.
 
 
