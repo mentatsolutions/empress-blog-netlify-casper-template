@@ -1,5 +1,5 @@
 ---
-title: Courses and Certifications
+title: Certifications
 image: /images/welcome.jpg
 imageMeta:
   attribution:
