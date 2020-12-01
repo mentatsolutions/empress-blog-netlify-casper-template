@@ -30,8 +30,7 @@ module.exports = function(environment) {
 
       navigation: [
         { label: 'Home', route: 'index' }, 
-        { label: 'About', route: 'page' }, 
-        { label: 'Certifications', route: 'certs' }
+        { label: 'About', route: 'page' } 
     ]
   },
 
