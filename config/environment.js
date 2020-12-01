@@ -33,7 +33,8 @@ module.exports = function(environment) {
         route: 'index'
       }, {
         label: 'About',
-        route: 'page'
+        route: 'page',
+        id: 'wendell-white'
       }]
     },
 
