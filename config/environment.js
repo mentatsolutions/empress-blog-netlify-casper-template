@@ -29,7 +29,8 @@ module.exports = function(environment) {
       
       navigation: [
         { label: 'Home', route: 'index' }, 
-        { label: 'About', route: 'page', id: 'wendell-white' }
+        { label: 'About', route: 'page', id: 'wendell-white' },
+        { label: 'Certifications', route: 'certs', id: 'courses'}
      ]
   },
 
