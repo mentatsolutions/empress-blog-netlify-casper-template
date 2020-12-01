@@ -10,13 +10,8 @@ authors:
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
----
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   You can begin a multiline `description` using YAML's `|-`.
+
 item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
   date_end: ""
@@ -138,3 +133,4 @@ item:
   organization_url: https://www.blockchaincouncil.org
   title: Certified CryptoCurrency Trader
   url: ""
+---
