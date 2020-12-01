@@ -22,26 +22,19 @@ module.exports = function(environment) {
       // Here you can pass flags/options to your application instance
       // when it is created
     },
-
     blog: {
       title: 'wendell white analytics',
       description: 'Bitcoin...Blockchain...Trading',
+      logo: '/images/logo.png',
       coverImage: '/images/opendime.jpg',
+      twitter: '7th_mentat',
 
-      navigation: [{
-        label: 'Home',
-        route: 'index'
-      }, {
-        label: 'About',
-        route: 'page',
-        id: 'wendell-white'
-      }, {
-        label: 'Certifications',
-        route: 'certs',
-        id: 'courses'
-      {
-      }]
-    },
+      navigation: [
+        { label: 'Home', route: 'index' }, 
+        { label: 'About', route: 'page' }, 
+        { label: 'Certifications', route: 'certs'},
+    ]
+  },
 
     'responsive-image': {
       sourceDir: 'images',
