@@ -33,11 +33,11 @@ module.exports = function(environment) {
         route: 'index'
       }, {
         label: 'Articles',
-        route: 'page'
-        id: 'chris-manson'
+        route: 'page',
+        id: 'wendell-white'
       }, {
         label: 'Courses Certificates', 
-        route: 'certs'
+        route: 'certs',
         id: 'courses'
       }]
     },
