@@ -35,6 +35,10 @@ module.exports = function(environment) {
         label: 'About',
         route: 'page',
         id: 'wendell-white'
+      }, {
+        label: 'Next Page',
+        route: 'page',
+        id: 'wendell-white'
       }]
     },
 
