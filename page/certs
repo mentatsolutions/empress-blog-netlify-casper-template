@@ -19,6 +19,16 @@ subtitle:
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format: Jan 2006
 
+image: /images/codescreen.jpg
+imageMeta:
+  attribution:
+  attributionLink:
+featured: false
+authors:
+  - ghost
+date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+tags:
+
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
