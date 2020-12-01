@@ -26,13 +26,11 @@ module.exports = function(environment) {
       title: 'wendell white analytics',
       description: 'Bitcoin...Blockchain...Trading',
       coverImage: '/images/opendime.jpg',
-      twitter: '7th_mentat',
-
+      
       navigation: [
         { label: 'Home', route: 'index' }, 
-        { label: 'About', route: 'page', id: 'wendell-white' },
-        { label: 'Certificates', route: 'certs', id: 'courses' }
-    ]
+        { label: 'About', route: 'page', id: 'wendell-white' }
+     ]
   },
 
     'responsive-image': {
