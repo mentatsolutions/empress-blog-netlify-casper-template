@@ -23,7 +23,6 @@ The author paints a detailed picture of how some of the top programmers view the
 Clive Thompson also goes into detail about the newest topics in tech including artificial intelligence, Blockchain and crypto-currencies.  I found it very interesting that a lot of the privacy and encryption technology that we use in our everyday lives outpaced that of government agencies tasked with gathering and tracking information on various people and entities.  On the other hand, the general public has become increasingly concerned about information security and privacy. The encryption technology placed on items such as smartphones and some web browsers is unbreakable and not even the government can monitor conversations and information exchanges that use these features. This has caused conflict with the government because there is no ‘back door’ for them to use for monitoring.  Artificial intelligence and crypto-currencies are also often outside of government regulations because there are no precedents on use cases.  
 
 ---
-# {% youtube 89vzfTFu1Vw %} Clive Thompson
 <iframe width="420" height="315", src="//www.youtube.com/embed/89vzfTFu1Vw" frameborder="0" allowfullscreen="allowfullscreen">&nbsp; </iframe> 
 
 ---
