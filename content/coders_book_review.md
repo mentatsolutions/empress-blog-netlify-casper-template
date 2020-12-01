@@ -1,5 +1,6 @@
 ---
 title: "Coders - The Making of a New Tribe and the Remaking of the World (Book Review)"
+author: 'wendell-white'
 date: '2020-11-18'
 image: /images/codersreview.jpg
 math: no
