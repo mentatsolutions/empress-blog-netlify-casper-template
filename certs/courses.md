@@ -1,23 +1,34 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-# widget: accomplishments
+widget: accomplishments
 
 # Activate this widget? true/false
 # active: false
 
 # This file represents a page section.
-headless: true
+# headless: true
 
 # Order that this section appears on the page.
-weight: 50
+# weight: 50
 
+id: certs
 title: Coursework and Certificates
 subtitle:
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+# date_format: Jan 2006
+
+image: /images/codescreen.jpg
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+authors:
+  - ghost
+date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+tags:
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
