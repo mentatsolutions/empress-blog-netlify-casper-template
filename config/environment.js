@@ -32,9 +32,13 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Blog by Wendell White',
+        label: 'Articles',
         route: 'page',
         id: 'wendell-white'
+      }, {
+        label: 'Courses/Certificates',
+        route: 'certs',
+        id: 'courses'
       }]
     },
 
