@@ -10,7 +10,7 @@ authors:
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
-
+---
 
 item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
@@ -133,4 +133,3 @@ item:
   organization_url: https://www.blockchaincouncil.org
   title: Certified CryptoCurrency Trader
   url: ""
----
