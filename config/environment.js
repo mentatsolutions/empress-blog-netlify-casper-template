@@ -25,7 +25,7 @@ module.exports = function(environment) {
     blog: {
       title: 'wendell white analytics',
       description: 'Bitcoin...Blockchain...Trading',
-      logo: '/images/logo.png',
+      logo: '/images/bubbles-wide.jpg',
       coverImage: '/images/opendime.jpg',
       twitter: '7th_mentat',
 
