@@ -7,5 +7,7 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function() {
-  this.route('certs', function () {} );
+ this.resource('cert', function() {
+    this.route('certs', { path:'/certs/:cert_id'})
+});
 });
