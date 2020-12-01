@@ -36,7 +36,7 @@ module.exports = function(environment) {
         route: 'page',
         id: 'wendell-white'
       }, {
-        label: 'Courses/Certificates',
+        label: 'Courses Certificates', 
         route: 'certs',
         id: 'courses'
       }]
