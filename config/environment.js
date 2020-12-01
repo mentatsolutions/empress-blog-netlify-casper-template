@@ -34,6 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Certifications',
         route: 'certs'
+      },
       }]
     },
 
