@@ -23,17 +23,17 @@ Here are some of the courses and certifications that I have...
 ---
   # Quantitative Analyst with R - Career Track
   certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
-  Completed: "2017-12-01"     Organization: Datacamp      url: https://www.datacamp.com
+  Completed: "2017-12-01"     Organization: Datacamp            url: https://www.datacamp.com
   
 
   # Financial Trading in R
   certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/8aca27e1ef019b5bc5879a3d0e148e3d393c7314
-  Completed: "2017-12-01"     Organization: Datacamp      url: https://www.datacamp.com
+  Completed: "2017-12-01"     Organization: Datacamp            url: https://www.datacamp.com
   
   
   # Introduction to Machine Learning with R
   certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/19784faf83352b576f2f6b14960a494fa646bb0d
-  Completed: "2018-08-01"    Organization: Datacamp      url: https://www.datacamp.com
+  Completed: "2018-08-01"    Organization: Datacamp           url: https://www.datacamp.com
   
   
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/0f6903c6182e13b09cf25eb4bb1441cd3debf8dd
