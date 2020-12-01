@@ -20,16 +20,12 @@ I live in the Mile High City of Denver, CO.
 
 Here are some of the courses and certifications that I have...
 
+---
+  # Quantitative Analyst with R - Career Track
+  certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
+  Completed: "2017-12-01"     Organization: Datacamp      url: https://www.datacamp.com
+  
 
-item:
-- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
-  date_end: ""
-  date_start: "2017-12-01"
-  description: ""
-  organization: Datacamp
-  organization_url: https://www.datacamp.com
-  title: Quantitative Analyst with R - Career Track
-  url: ""
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/8aca27e1ef019b5bc5879a3d0e148e3d393c7314
   date_end: ""
   date_start: "2017-12-01"
@@ -142,3 +138,4 @@ item:
   organization_url: https://www.blockchaincouncil.org
   title: Certified CryptoCurrency Trader
   url: ""
+---
