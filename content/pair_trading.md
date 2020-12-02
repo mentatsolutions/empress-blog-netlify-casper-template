@@ -1,6 +1,6 @@
 ---
 title: Simple Pair Trading Strategy With Python
-image: /images/writing.jpg
+image: /images/team.jpg
 imageMeta:
   attribution:
   attributionLink:
