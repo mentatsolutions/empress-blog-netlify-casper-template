@@ -1,3 +1,16 @@
+---
+title: Simple Pair Trading Strategy With Python
+image: /images/writing.jpg
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+authors:
+  - ghost
+date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+tags:
+  - getting-started
+---
 
 Stock Market Prediction Web Application (Part 1)
 Hello and welcome to my first posted project! This project is taken from a recent book by Manuel Amunategui - "Monetizing Machine Learning" (Apress, 2018). This case study involves a popular pair trading strategy and developing a system that will alert us to possible trading opportunites. _NOTE: This is only a 'TOY' system and is not meant to be used as an actual trading system. The only purpose of this project is to demonstrate how to use Python to develop an application that can be implemented as a web application!_
