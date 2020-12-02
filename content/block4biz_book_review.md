@@ -1,5 +1,5 @@
 ---
-title: "Blockchain For Business (Book Review)"title: Editing Posts with empress-blog
+title: "Blockchain For Business (Book Review)"title: Editing Posts with empress-blogtitle: Editing Posts with empress-blog
 image: /images/writing.jpg
 imageMeta:
   attribution:
@@ -34,6 +34,6 @@ Although this book was written by three high level IBM’ers it didn’t feel li
 This book provides a detailed roadmap of how to proceed in the planning and decision making stage of a blockchain project.  The authors have provided an invaluable resource to anyone involved or interested in knowing more about planning and deploying a blockchain project. Anyone interested in exploring blockchain opportunities and important aspects to consider when planning a new project should read this book!
 
 ---
-![](block4biz_thumb.png)
+![](block4biz_thumb.png)title: Editing Posts with empress-blog
 ---
 
