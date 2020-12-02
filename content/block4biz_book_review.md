@@ -1,11 +1,15 @@
 ---
-title: "Blockchain For Business (Book Review)"
-diagram: yes
-date: '2020-11-19'
-math: no
-image:
-  caption: 'Image credit: [**Terry @blueskin**]'
-  placement: 3
+title: "Blockchain For Business (Book Review)"title: Editing Posts with empress-blog
+image: /images/writing.jpg
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+authors:
+  - ghost
+date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+tags:
+  - getting-started
 ---
 
 # Blockchain's Potential
