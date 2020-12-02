@@ -1,6 +1,6 @@
 ---
 title: "Blockchain For Business (Book Review)"
-image: /images/writing.jpg
+image: /images/bubbles-wide.jpg
 imageMeta:
   attribution:
   attributionLink:
