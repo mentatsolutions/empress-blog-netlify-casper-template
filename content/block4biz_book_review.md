@@ -18,7 +18,7 @@ The first few chapters of the book give a general overview of blockchain and how
 Another topic that I found very interesting was a discussion about the different types of business models and how important they are to the success of a project.  Thinking about the correct business model and also the appropriate type of blockchain structure might be two of the most important things to consider when evaluating a blockchain business proposal.
 
 ---
-{{< youtube SSo_EIwHSd4 >}} How Does A Blockchain Work? - Simply Explained
+<iframe width="420" height="315", src="//www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" allowfullscreen="allowfullscreen">&nbsp; </iframe> 
 
 ---
 
