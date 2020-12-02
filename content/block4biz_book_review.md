@@ -1,5 +1,5 @@
 ---
-title: "Blockchain For Business (Book Review)"title: Editing Posts with empress-blogtitle: Editing Posts with empress-blog
+title: "Blockchain For Business (Book Review)"
 image: /images/writing.jpg
 imageMeta:
   attribution:
