@@ -1,5 +1,5 @@
 ---
-name: bgetting-startedlockchain
+name: Blockchain
 image:
 imageMeta:
 ---
